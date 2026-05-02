@@ -232,7 +232,7 @@ export const DAYS: Day[] = [
           ],
         },
       },
-      snack: "크림치즈 + 셀러리 스틱",
+      snack: "크림치즈 + 오이 스틱",
     },
   },
 ];
